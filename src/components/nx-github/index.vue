@@ -18,7 +18,7 @@ export default {
   components: { nxIcon },
   data() {
     return {
-      url: 'https://github.com/mgbq/nx-admin'
+      url: 'https://github.com/17610998011/xy-admin'
     }
   },
   methods: {
