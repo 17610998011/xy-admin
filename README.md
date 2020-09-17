@@ -260,7 +260,7 @@ npm run lint
 npm run lint -- --fix
 ```
 ## 捐赠 觉得不错 赏个咖啡 让作者打起精神 ~
-<img src="./github/erweima.jpg" style="width:354px;height:400px" alt="捐赠扫一扫">
+<img src="./github/erweima.jpg" width="354px"  style="width:354px;height:400px" alt="捐赠扫一扫">
 
 ## 感谢
 这个项目借鉴了[vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template),[d2admin](https://github.com/d2-projects/d2-admin),
