@@ -41,7 +41,7 @@
 
 
 
-<img src="./github/nx-admin.png" width="800px" height="400" alt="nx-admin">
+<img src="http://lkcashier.oss-cn-shanghai.aliyuncs.com/2020-09/2020-09-17/16003386936511.jpeg" width="800px" height="400" alt="nx-admin">
 
 **简化版**
 
