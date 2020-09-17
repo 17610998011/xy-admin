@@ -79,7 +79,7 @@
 
 ## 下载
 
-git：`git clone https://github.com/mgbq/nx-admin.git`
+git：`git clone https://github.com/17610998011/xy-admin.git`
 
 npm：`npm install`
 
@@ -223,7 +223,7 @@ nx-admin 是完全开源免费的管理系统集成方案，由 nxmin 在工作�
 ## 开发
 ```bash
 # 克隆项目
-git clone https://github.com/mgbq/nx-admin.git
+git clone https://github.com/17610998011/xy-admin.git
 
 # 安装依赖
 npm install
